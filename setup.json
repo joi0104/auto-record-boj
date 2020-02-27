@@ -1,0 +1,16 @@
+{
+	"path": "C:/Users/JinYoung/PycharmProjects/BOJ/BOJ",
+	"scope": "https://www.googleapis.com/auth/drive",
+	"file_extension": [
+		".py",
+		".cpp",
+		".c",
+		".java"
+	],
+	"service_account_json_file_name": "phonic-envoy-269314-d913d0f98410.json",
+	"spreadsheet_url": "https://docs.google.com/spreadsheets/d/1i9qOkI4U9rSRfDFGns0us3ZdI8qEKnAqwm2GpkahXjs/edit#gid=0",
+	"worksheet": "cycle 43 [02.24 - 03.01]",
+	"my_column": "C",
+	"already_solved_list": [
+	]
+}
