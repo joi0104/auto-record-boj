@@ -1,4 +1,4 @@
-# auto_record_BOJ
+# auto_record_boj
 
 
 
